@@ -38,3 +38,7 @@ width:100%;
 a.nav-link {
     color: white !important;
 }
+
+button.navbar-toggler.collapsed {
+    background: #ffa299 !important;
+}
