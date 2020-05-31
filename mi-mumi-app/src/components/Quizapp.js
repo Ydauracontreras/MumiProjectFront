@@ -1,16 +1,8 @@
 import React, { Component } from 'react';
 import '../App.css';
-import Header from './Header';
-import Footer from './Footer';
-import About from './About';
 import Quiz from './Quiz';
-import { Nav, NavDropdown, Navbar, Form, FormControl, Button, Carousel } from 'react-bootstrap';
-import Route from 'react-router-dom/Route'
-import { BrowserRouter, Link } from 'react-router-dom'
-import Question from './Question';
-import quizQuestions from '../api/quizQuestions';
 import Result from './Result';
-
+import quizQuestions from '../api/quizQuestions';
 
 
 class Quizapp extends React.Component {

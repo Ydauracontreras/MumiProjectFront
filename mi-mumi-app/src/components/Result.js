@@ -14,7 +14,7 @@ function Result(props) {
             transitionAppearTimeout={500}
         >
             <div>
-                Desde Mumi <strong>{props.quizResult}</strong>!
+                <strong>{props.quizResult}</strong>!
       </div>
         </CSSTransition>
     );

@@ -17,8 +17,6 @@ function Header() {
                             <Nav.Link href='/About'>NOSOTROS</Nav.Link>
                             <Nav.Link href="/Historias">TESTIMONIOS</Nav.Link>
                             <Nav.Link href="/Organizaciones">RECOMENDACIONES</Nav.Link>
-                            <Button variant="outline-light">INICIO</Button>
-                            <Button variant="outline-light">LOGIN</Button>
                         </Nav>
                     </Navbar.Collapse>
                 </Navbar>

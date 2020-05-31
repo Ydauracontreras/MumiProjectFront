@@ -133,9 +133,11 @@ h2 {
 }
 
 @media screen and (max-width: 360px) {
-     .container {
+  .container {
     margin: 2.5rem auto;
-  }
+    padding: 30px !important;
+    text-align: center;
+}
   .About{
     height: 80vh !important
   }
@@ -154,6 +156,23 @@ h2 {
     height: 63vh !important;
     position: relative;
   }
+
+  .quiestion, h2 {
+    padding-top: 0% !important;
+    font-size: 1em !important;
+    text-align: center !important;
+    margin: 4% !important;
+}
+
+ul.answerOptions {
+    list-style: none;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    margin-left: 10px !important;
+}
 
 
 
