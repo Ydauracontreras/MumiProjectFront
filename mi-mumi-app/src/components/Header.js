@@ -11,7 +11,7 @@ function Header() {
             <div className="navegacion" >
                 <Navbar bg="light" expand="lg">
                     <img className="logoPrincipal" src={logo1} alt="logo" />
-                    <Navbar.Brand href="/">MUMI</Navbar.Brand>
+                    <Navbar.Brand href="/Home">MUMI</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="mr-auto">

@@ -16,8 +16,10 @@ export default class Home extends Component {
             </h1>
             <span>
             </span>
+            <Button>
+              <Link className='NavBar-link' to='/Quiz'>Hacer Quiz</Link>
+            </Button>
 
-            <Button variant="success" to='/Quiz'>Success</Button>{''}
           </section>
         </div>
       </>

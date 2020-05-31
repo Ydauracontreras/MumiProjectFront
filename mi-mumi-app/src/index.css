@@ -24,25 +24,41 @@ body {
   font-family: sans-serif;
 }
 
-.container {
-  position: relative;
-  max-width: 800px;
-  margin: 0 auto;
-  border-radius: 3px;
-  height: 70vh;
+.container{
+     position: relative;
 }
 
+.Home {
+  height: 100vh;
+  z-index: 0;
+}
 
-
+.carousel-item {
+    width: 70% !important;
+    margin-left: 15%;
+    margin-top: -5%;
+}
 
 @media (min-width: 451px) and (max-width: 750px){
   .container {
     margin: 2.5rem auto;
   }
+
+  h2{
+  font-size: 1.5em;
+  align-items: center;
+}
+
 }
 
 @media screen and (max-width: 450px) {
-    
+     .container {
+    margin: 2.5rem auto;
+  }
+h2{
+ font-size: 1.5em !important;
+}
+
   }
 
   .About,p{
@@ -53,15 +69,10 @@ body {
   }
 
   .About{
-  background-image: url(/static/media/centro_2.a5763dd5.jpg);
-    background-repeat: no-repeat;
     opacity: 0.9;
     width: 90%;
     height: 100vh;
-    background-position: top;
   }
-
-  
 
 a {
     color: white;
@@ -70,3 +81,27 @@ a {
     font-weight: bold;
     background-color: transparent;
 }
+
+div#content {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.carousel-caption {
+  position: absolute;
+    right: 15%;
+    bottom: 15%;
+    left: 15%;
+    z-index: 10;
+    padding-bottom: 19px;
+    color: #562346;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+  font-size: 3.5em;
+  align-items: center;
+}
+

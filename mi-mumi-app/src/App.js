@@ -1,15 +1,16 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Home from './components/Home';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import About from './components/About';
 import Historias from './components/Historias';
 import Orientacion from './components/Orientacion';
 import Quiz from './components/Quiz';
-import { Nav, NavDropdown, Navbar, Form, FormControl, Button } from 'react-bootstrap';
+import { Nav, NavDropdown, Navbar, Form, FormControl, Button, Carousel } from 'react-bootstrap';
 import Route from 'react-router-dom/Route'
-import { BrowserRouter } from 'react-router-dom'
+import { BrowserRouter, Link } from 'react-router-dom'
 import Main from './components/Main';
 
 
@@ -22,6 +23,7 @@ class App extends Component {
         <Header />
         <BrowserRouter>
           <div>
+            <Route path="/Home" component={Home} />
             <Route path="/About" component={About} />
             <Route path="/Historias" component={Historias} />
             <Route path="/Orientacion" component={Orientacion} />
@@ -29,9 +31,10 @@ class App extends Component {
           </div>
         </BrowserRouter>
 
+
         <Footer />
 
-      </div>
+      </div >
 
     );
   }
