@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Home from './components/Home';
 import Header from './components/Header';
@@ -8,13 +7,11 @@ import About from './components/About';
 import Historias from './components/Historias';
 import Orientacion from './components/Orientacion';
 import Quiz from './components/Quiz';
-import { Nav, NavDropdown, Navbar, Form, FormControl, Button, Carousel } from 'react-bootstrap';
 import Route from 'react-router-dom/Route'
 import { BrowserRouter, Link } from 'react-router-dom'
-import Question from './components/Question';
 import quizQuestions from './api/quizQuestions';
 import Result from './components/Result';
-import Main from './components/Main';
+
 
 
 class Cuestionario extends Component {

@@ -1,8 +1,7 @@
 import React from 'react';
 import '../App.css';
 import logo1 from "../img/logo1.png";
-import { Nav, NavDropdown, Navbar, Form, FormControl, Button } from 'react-bootstrap';
-import { BrowserRouter, Route, Switch, Redirect, Link, NavLink, withRouter } from 'react-router-dom';
+import { Nav, Navbar } from 'react-bootstrap';
 
 
 function Header() {

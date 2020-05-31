@@ -3,33 +3,32 @@ var quizQuestions = [
         question: "¿Tu pareja te revisa el celular o las redes sociales?",
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
-
         ]
     },
     {
         question: "¿Se pone agresivo con vos cuando toma alcohol o se droga ?",
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -39,15 +38,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -57,15 +56,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -75,15 +74,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -93,15 +92,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -111,15 +110,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -129,15 +128,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -147,15 +146,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -165,15 +164,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -183,15 +182,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -201,15 +200,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -219,15 +218,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "No sufris ninguna violencia ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]
@@ -237,15 +236,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "tuS ",
+                type: "Ninguna",
                 content: "No"
             },
             {
-                type: "Fuerte Sufri violencia ",
+                type: "Fuerte",
                 content: "Si"
             },
             {
-                type: "Mediana puedes sufrir violencia",
+                type: "Mediana",
                 content: "Algunas veces"
             }
         ]

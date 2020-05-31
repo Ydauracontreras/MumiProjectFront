@@ -1,14 +1,6 @@
 import React, { Component } from 'react';
-import logo1 from '../img/logo1.png';
 import '../App.css';
-import Header from './Header';
-import Footer from './Footer';
-import Quizapp from './Quizapp'
-import Quiz from './Quiz'
-import Historias from './Historias'
-import { Nav, NavDropdown, Navbar, Form, FormControl, Button, Carousel } from 'react-bootstrap';
-import Route from 'react-router-dom/Route'
-import { BrowserRouter, Link } from 'react-router-dom'
+import { Navbar, Button } from 'react-bootstrap';
 
 
 function Home() {

@@ -1,7 +1,6 @@
 import React from 'react';
 import '../App.css';
 import centro_2 from "../img/centro_2.jpg";
-import centro_3 from "../img/centro_3.jpg";
 
 
 

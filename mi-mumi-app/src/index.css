@@ -30,7 +30,7 @@ body {
     background-repeat: no-repeat;
     background-position: left;
     background-size: 40%;
-    height: 110vh;
+    height: 115vh;
     position: relative;
 }
 
@@ -69,8 +69,30 @@ h1 {
 
 @media (min-width: 768px) and (max-width: 1024px){
   .container {
-    margin: 2.5rem auto;
+    margin: 8.5rem auto;
   }
+  .questionCount {
+    margin: 6%;
+    font-size: 28px;
+    font-weight: bold;
+}
+li.answerOption {
+    list-style: none;
+    padding: 1%;
+    font-size: 25px;
+    margin-left: 4%;
+}
+
+img#imgHisrotias {
+    width: 50%;
+}
+
+
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    padding: 1%;
+}
 .enlaces {
     margin-left: 10%;
 }
@@ -90,7 +112,7 @@ h1 {
 
 
   .Historias {
-    height: 130vh !important;
+    height: 100vh !important;
     padding-bottom: 5%;
 }
 
@@ -103,9 +125,8 @@ h2 {
     font-size: 2.2em;
     text-align: center;
     margin: 4% !important;
-    margin-top: -70px !important;
+    margin-top: -25px !important;
 }
-
 
 }
 
