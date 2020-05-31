@@ -32,11 +32,36 @@ body {
   height: 70vh;
 }
 
-@media (min-width: 769px) {
+
+
+
+@media (min-width: 451px) and (max-width: 750px){
   .container {
     margin: 2.5rem auto;
   }
 }
+
+@media screen and (max-width: 450px) {
+    
+  }
+
+  .About,p{
+    font-size: 1.1em;
+    margin: 5%;
+    text-align: center;
+
+  }
+
+  .About{
+  background-image: url(/static/media/centro_2.a5763dd5.jpg);
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    width: 90%;
+    height: 100vh;
+    background-position: top;
+  }
+
+  
 
 a {
     color: white;

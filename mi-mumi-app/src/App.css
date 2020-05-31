@@ -1,7 +1,7 @@
 
 html, body
 {
- background-color: #ffe8df;  
+ background-color: RGB(255, 240, 245);  
 }
 
 img.logoPrincipal{
@@ -42,4 +42,3 @@ a.nav-link {
 button.navbar-toggler.collapsed {
     background: #ffa299 !important;
 }
-

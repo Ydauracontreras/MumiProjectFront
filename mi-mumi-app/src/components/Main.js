@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import '../App.css';
+import { Nav, NavDropdown, Navbar, Form, FormControl, Button } from 'react-bootstrap';
 
 export default class Home extends Component {
   render() {
@@ -15,6 +16,8 @@ export default class Home extends Component {
             </h1>
             <span>
             </span>
+
+            <Button variant="success" to='/Quiz'>Success</Button>{''}
           </section>
         </div>
       </>

@@ -1,7 +1,6 @@
 import React from 'react';
 import '../App.css';
 import logo1 from "../img/logo1.png";
-
 import { Nav, NavDropdown, Navbar, Form, FormControl, Button } from 'react-bootstrap';
 import { BrowserRouter, Route, Switch, Redirect, Link, NavLink, withRouter } from 'react-router-dom';
 
@@ -19,7 +18,7 @@ function Header() {
                             <Nav.Link href='/About'>NOSOTROS</Nav.Link>
                             <Nav.Link href="/Historias">TESTIMONIOS</Nav.Link>
                             <NavDropdown title="ORGANIZACIONES" id="basic-nav-dropdown">
-                                <NavDropdown.Item href="/Orientacion">Orientacion</NavDropdown.Item>
+                                <NavDropdown.Item href="#action/3.1">Orientacion</NavDropdown.Item>
                                 <NavDropdown.Item href="#action/3.2">Asesoria Legal</NavDropdown.Item>
                                 <NavDropdown.Item href="#action/3.3">Denuncia</NavDropdown.Item>
 

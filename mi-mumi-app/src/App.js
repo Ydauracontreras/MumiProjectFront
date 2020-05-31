@@ -12,18 +12,20 @@ import Route from 'react-router-dom/Route'
 import { BrowserRouter } from 'react-router-dom'
 import Main from './components/Main';
 
+
 class App extends Component {
   render() {
     return (
+
+
       <div className="App">
+        <Header />
         <BrowserRouter>
           <div>
-            <Header>
-              <Route path="/About" component={About} />
-              <Route path="/Historias" component={Historias} />
-              <Route path="/Orientacion" component={Orientacion} />
-              <Route path="/Quiz" component={Quiz} />
-            </Header>
+            <Route path="/About" component={About} />
+            <Route path="/Historias" component={Historias} />
+            <Route path="/Orientacion" component={Orientacion} />
+            <Route path="/Quiz" component={Quiz} />
           </div>
         </BrowserRouter>
 
