@@ -4,6 +4,7 @@ import '../App.css';
 import Header from './Header';
 import Footer from './Footer';
 import Quizapp from './Quizapp'
+import Quiz from './Quiz'
 import Historias from './Historias'
 import { Nav, NavDropdown, Navbar, Form, FormControl, Button, Carousel } from 'react-bootstrap';
 import Route from 'react-router-dom/Route'
@@ -27,7 +28,8 @@ function Home() {
                   </b>  </h2>
 
                     <Button>
-                        <a href=".Quizapp/">QUIZ</a>
+                        <Navbar.Brand href="/Quiz">MUMI</Navbar.Brand>
+
                     </Button>
                 </div>
             </div >

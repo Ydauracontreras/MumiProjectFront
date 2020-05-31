@@ -15,6 +15,7 @@ import Question from './components/Question';
 import quizQuestions from './api/quizQuestions';
 import Result from './components/Result';
 import Main from './components/Main';
+import Quizapp from './components/Quizapp';
 
 
 class App extends Component {
@@ -30,7 +31,7 @@ class App extends Component {
             <Route path="/About" component={About} />
             <Route path="/Historias" component={Historias} />
             <Route path="/Organizaciones" component={Organizaciones} />
-
+            <Route path="/Quiz" component={Quizapp} />
           </div>
         </BrowserRouter>
         <Footer />

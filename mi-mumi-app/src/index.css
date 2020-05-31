@@ -30,17 +30,16 @@ body {
     background-repeat: no-repeat;
     background-position: left;
     background-size: 40%;
-    height: 100vh;
+    height: 110vh;
     position: relative;
 }
 
 
 h1 {
-    padding: 86px;
-    text-align: center;
+    padding: 306px;
     font-size: 43px;
     font-weight: bold;
-    margin-right: 700px;
+    margin-left: 35%;
 }
 
 
@@ -91,13 +90,20 @@ h1 {
 
 
   .Historias {
-    height: 150vh !important;
+    height: 130vh !important;
     padding-bottom: 5%;
 }
 
   .footer, a {
     color: white !important;
     padding: 2% !important;
+}
+
+h2 {
+    font-size: 2.2em;
+    text-align: center;
+    margin: 4% !important;
+    margin-top: -70px !important;
 }
 
 
@@ -126,9 +132,6 @@ h1 {
     position: relative;
   }
 
-  button.btn.btn-primary {
-    background-color: ;
-}
 
 
   h1 {
@@ -156,6 +159,10 @@ img#imgHisrotias {
     width: 75%;
     position: initial;
     margin: 2%;
+}
+
+button.btn.btn-primary {
+margin-left: 5% !important;
 }
 
 
@@ -190,22 +197,24 @@ a {
     background-color: transparent;
 }
 
+
 button.btn.btn-primary {
 background-color: #ad6989 !important;
-width: 25%;
+width: 20%;
 border: #ad6989 !important;
+margin-left: 40%;
 }
+
 
 button.btn.btn-primary a{
     color: #562349 !important;
 
 }
 
-
-h2{
-font-size: 2.5em;
+h2 {
+    font-size: 2.2em;
     text-align: center;
-    margin: 8%;
+    margin: 4%;
 }
 
 p{

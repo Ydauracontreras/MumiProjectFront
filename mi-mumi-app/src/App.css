@@ -36,7 +36,7 @@ background-color: #ad6989 !important;
 .navbar-light .navbar-brand{
   color: #562349 !important;
   font-weight: bold;
-  font-size: 1.5em !important;
+  font-size: 1.8em !important;
 }
 
 .bg-light {
@@ -52,6 +52,6 @@ button.navbar-toggler.collapsed {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    font-size: 1.2em;
+    font-size: 1.2em !important;
     margin: 5px;
 }
