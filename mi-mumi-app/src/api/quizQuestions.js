@@ -3,15 +3,15 @@ var quizQuestions = [
         question: "¿Tu pareja te revisa el celular o las redes sociales?",
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -20,15 +20,15 @@ var quizQuestions = [
         question: "¿Se pone agresivo con vos cuando toma alcohol o se droga ?",
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -38,15 +38,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -56,15 +56,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -74,15 +74,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -92,15 +92,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -110,15 +110,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -128,15 +128,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -146,15 +146,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -164,15 +164,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -182,15 +182,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -200,15 +200,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -218,15 +218,15 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
@@ -236,19 +236,20 @@ var quizQuestions = [
 
         answers: [
             {
-                type: "Ninguna",
+                type: "El resultado de tu <em>QUIZ</em> indica que no has sufrido de violencia de genero, de igual manera desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte en un camino libre de desigualdades y que te permita crecer como una mujer empoderada dentro de nuestra sociedad. Te esperamos",
                 content: "No"
             },
             {
-                type: "Fuerte",
+                type: "El resultado de tu <em>QUIZ</em> indica que has sufrido o estas sufriendo de violencia de genero, desde <em>QUIZ</em> queremos ofrecerte los medios para orientarte a traves de un camino libre de desigualdad y brindarte las herramientas necesarias para identificar y mitigar relaciones que te involucren nuevamente en situaciones de violencia. Te esperamos",
                 content: "Si"
             },
             {
-                type: "Mediana",
+                type: "El resultado de tu <em>QUIZ</em> indica que estuviste involucrada o sufriste de violencia de genero, desde <em>MUMI</em> queremos ofrecerte los medios para orientarte en un camino diferente que te permita nunca afrontar estas situaciones. te esperamos",
                 content: "Algunas veces"
             }
         ]
-    }
+    },
+
 
 ];
 

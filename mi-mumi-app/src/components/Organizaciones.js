@@ -6,87 +6,40 @@ function About() {
     return (
         <div className="organizaciones" >
             <p>
-                Oficina de Violencia Doméstica (OVD) – Corte Suprema de Justicia de la Nación
-                El objetivo de la OVD es facilitar el acceso a la justicia de las personas que, afectadas por hechos de violencia doméstica, se encuentran en situación de especial vulnerabilidad. Brinda atención multidisciplinaria las 24 hs. los 365 días del año a las personas que se acercan de forma espontánea.
-         
+                1.
+                Apóyate inmediatamente en un familiar, amigo o amiga de mucha confianza que te crea y escuche
+ </p>
+            <p>
 
-            <h2>
-                Dirección:
-                 <a href='https://www.google.com/maps/dir/-32.9063242,-68.7989616/Oficina+de+Violencia+Dom%C3%A9stica+C1048+AAF,+Buenos+Aires/@-33.8974394,-68.0956265,6z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x95bccac60dbad991:0xa4a09f7ad7e65b51!2m2!1d-58.384449!2d-34.6027769'> Lavalle 1250, Ciudad Autónoma de Buenos Aires</a>
-                Teléfono:  <a href='  (011) 4123-4510 al 4514'> (011) 4123-4510 al 4514</a>
-            </h2>
+                2.
+                Asiste o llama al número del Ministerio Público 1572 para presentar tu denuncia o a cualquier estación o subestación de la Policía Nacional Civil. También puedes llamar al 110 y a la defensoría de la Mujer al 155 para recibir apoyo.
+
+</p>
+
+            <p>
+
+                3.
+                De ser posible, recopila todas las pruebas necesarias que demuestren la agresión de la que has sido víctima, ya que al presentar la denuncia, el Ministerio Público te hará preguntas de lo sucedido.
+
+            </p>
+
+            <p>
+
+                4.
+                Comunica si consideras que tu vida o la de tu familia corre peligro, ya que por ley deberán brindarte la protección necesaria.
+
+            </p>
+
+            <p>
+
+
+                5.
+                No dudes de tus ideas, opiniones y decisiones ni permitas que nadie te haga dudar de tus acciones, lo importante es salir de esa situación.
 
             </p>
 
 
-                <p>
-                    Oficina de Violencia Doméstica (OVD) – Corte Suprema de Justicia de la Nación
-                    El objetivo de la OVD es facilitar el acceso a la justicia de las personas que, afectadas por hechos de violencia doméstica, se encuentran en situación de especial vulnerabilidad. Brinda atención multidisciplinaria las 24 hs. los 365 días del año a las personas que se acercan de forma espontánea.
-       
 
-                <h2>
-                    Dirección:
-                 <a href='https://www.google.com/maps/dir/-32.9063242,-68.7989616/Oficina+de+Violencia+Dom%C3%A9stica+C1048+AAF,+Buenos+Aires/@-33.8974394,-68.0956265,6z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x95bccac60dbad991:0xa4a09f7ad7e65b51!2m2!1d-58.384449!2d-34.6027769'> Lavalle 1250, Ciudad Autónoma de Buenos Aires</a>
-                Teléfono:  <a href='  (011) 4123-4510 al 4514'> (011) 4123-4510 al 4514</a>
-                </h2>
-
-                </p>
-
-
-                    <p>
-                        Oficina de Violencia Doméstica (OVD) – Corte Suprema de Justicia de la Nación
-       
-
-                    <h2>
-                        Dirección:
-                 <a href='https://www.google.com/maps/dir/-32.9063242,-68.7989616/Oficina+de+Violencia+Dom%C3%A9stica+C1048+AAF,+Buenos+Aires/@-33.8974394,-68.0956265,6z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x95bccac60dbad991:0xa4a09f7ad7e65b51!2m2!1d-58.384449!2d-34.6027769'> Lavalle 1250, Ciudad Autónoma de Buenos Aires</a>
-                Teléfono:  <a href='  (011) 4123-4510 al 4514'> (011) 4123-4510 al 4514</a>
-                    </h2>
-
-                    </p>
-
-
-                        <p>
-
-                            Línea 137 - Atención a Víctimas de Violencia Familiar  – Ministerio de Justicia y Derechos Humanos de la Nación
-                            El objetivo de la línea 137 (desde la Ciudad Autónoma de Buenos Aires) consiste en la atención a las víctimas de abusos o malos tratos, causados por ejercicio de violencias cualquiera fuese su naturaleza, en un ámbito de contención, seguridad y garantía de sus derechos. La atención se brinda las 24 hs. de los 365 días del año.
-
-                            Teléfono: (011) 4132-3450 // 137: desde la Ciudad de Buenos Aires // 0800-222-3425 (en todo el territorio nacional
-
-
-                        <h2>
-                            Dirección:
-                 <a href='https://www.google.com/maps/dir/-32.9063242,-68.7989616/Oficina+de+Violencia+Dom%C3%A9stica+C1048+AAF,+Buenos+Aires/@-33.8974394,-68.0956265,6z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x95bccac60dbad991:0xa4a09f7ad7e65b51!2m2!1d-58.384449!2d-34.6027769'> Lavalle 1250, Ciudad Autónoma de Buenos Aires</a>
-                Teléfono:  <a href='  (011) 4123-4510 al 4514'> (011) 4123-4510 al 4514</a>
-                        </h2>
-
-
-            </p>       
-                                <p>
-                                    Línea 144 - Ministerio de las Mujeres, Género y Diversidad de la Nación
-                                    El objetivo de la línea telefónica nacional 144 es brindar información, orientación, asesoramiento y contención a las mujeres en situación de violencia de todo el país, los 365 días del año, las 24 hs., de manera gratuita. Cuenta con un equipo de atención integrado por profesionales psicólogas/os y trabajadoras/es sociales, y está conformado por operadoras/es y coordinadoras con capacitación en perspectiva de género y violencia contra las mujeres.
-
-
-                            <h2>
-                                Dirección:
-                 <a href='https://www.google.com/maps/dir/-32.9063242,-68.7989616/Oficina+de+Violencia+Dom%C3%A9stica+C1048+AAF,+Buenos+Aires/@-33.8974394,-68.0956265,6z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x95bccac60dbad991:0xa4a09f7ad7e65b51!2m2!1d-58.384449!2d-34.6027769'> Lavalle 1250, Ciudad Autónoma de Buenos Aires</a>
-                Teléfono:  <a href='  (011) 4123-4510 al 4514'> (011) 4123-4510 al 4514</a>
-                            </h2>
-
-
-
-                                 Centro de Atención a la Víctima - Superintendencia de Violencia de Género y Protección Familiar de la Policía de la Ciudad
-                La Policía de la Ciudad tiene como objetivo la erradicación de la violencia familiar a través de un trabajo en conjunto que incluye no sólo la protección de los damnificados sino también la atención de estos.
-
-                También realiza tareas de prevención y esclarecimiento de delitos intrafamiliares, siendo las víctimas mujeres, hombres, niños, adolescentes, personas con capacidades diferentes y tercera edad, por medio de brigadas cuya misión es intervenir en las tareas solicitadas por la justicia de la Ciudad y/o la Nación brindando una atención rápida, profesional y efectiva.
-
-                Teléfono: 4309-9700 int. 236122
-
-                Dirección: Charcas 2850, Ciudad Autónoma de Buenos Aires
-
-                
-           </p>
-  
         </div >
 
     );

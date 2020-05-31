@@ -43,6 +43,8 @@ h1 {
 }
 
 
+
+
 .About {
     height: 90vh;
 }
@@ -210,6 +212,16 @@ margin-left: 5% !important;
 
   }
 
+  .organizaciones, p {
+    font-size: 24px;
+    color: black;
+    width: 90%;
+    font-weight: bold;
+    text-align: justify;
+    margin-left: 5%;
+    margin-top: 6%;
+}
+
 a {
     color: white;
     text-decoration: none;
@@ -240,5 +252,12 @@ h2 {
 
 p{
   font-family: Arial, Helvetica, sans-serif ;
+}
+
+button.btn.btn-outline-light {
+    background: #562349;
+    height: 39px;
+    margin-left: 23px;
+    margin-top: 14px;
 }
 
