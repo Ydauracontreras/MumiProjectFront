@@ -30,8 +30,6 @@ class App extends Component {
             <Route path="/Quiz" component={Quiz} />
           </div>
         </BrowserRouter>
-
-
         <Footer />
 
       </div >

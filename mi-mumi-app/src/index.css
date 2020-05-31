@@ -24,29 +24,56 @@ body {
   font-family: sans-serif;
 }
 
-.container{
-     position: relative;
+
+
+.home{
+     background-image: url(/static/media/logo1.61a4c483.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 60%;
+    height: 100vh;
+    position: relative;
 }
 
-.Home {
-  height: 100vh;
-  z-index: 0;
+h1{
+padding: 20px;
+text-align: center;
+font-size: 40px;
+font-weight: bold;
 }
 
-.carousel-item {
-    width: 70% !important;
-    margin-left: 15%;
-    margin-top: -5%;
-}
 
-@media (min-width: 451px) and (max-width: 750px){
+
+@media (min-width: 768px) and (max-width: 1024px){
   .container {
     margin: 2.5rem auto;
   }
 
-  h2{
-  font-size: 1.5em;
-  align-items: center;
+  .About, p {
+    padding: 3% !important;
+}
+
+  .home {
+    background-size: 100% !important;
+    height: 68vh !important;
+}
+
+  .About {
+    height: 68vh !important;
+}
+
+  .Historias {
+    height: 68vh !important;
+}
+
+  .footer, a {
+    color: white !important;
+    font-size: 0.8em;
+    padding: 2% !important;
+}
+.Historias {
+    padding: 13px !important;
+    height: 100vh !important;
 }
 
 }
@@ -55,53 +82,55 @@ body {
      .container {
     margin: 2.5rem auto;
   }
-h2{
- font-size: 1.5em !important;
-}
-
+  .About{
+    height: 130vh !important
   }
 
+  .home {
+    background-size: 100% !important; 
+    height: 63vh !important;
+    position: relative;
+  }
+
+  .footer, a {
+    color: white !important;
+    font-size: 0.8em;
+    padding: 2% !important;
+}
+
+.Historias {
+    padding: 10px !important;
+    height: 250vh !important;
+}
+
+}
+
   .About,p{
-    font-size: 1.1em;
-    margin: 5%;
+     margin-top:2%;
+    font-size: 1em;
     text-align: center;
 
   }
 
   .About{
-    opacity: 0.9;
-    width: 90%;
-    height: 100vh;
+   height: 60vh !important;
+    padding: 3px;
   }
 
 a {
     color: white;
     text-decoration: none;
-    padding: 16px;
+   
     font-weight: bold;
     background-color: transparent;
 }
 
-div#content {
-    width: 70%;
-    margin-left: 15%;
-    margin-top: 5%;
-}
 
-.carousel-caption {
-  position: absolute;
-    right: 15%;
-    bottom: 15%;
-    left: 15%;
-    z-index: 10;
-    padding-bottom: 19px;
-    color: #562346;
-    text-align: center;
-    font-weight: bold;
-}
 
 h2{
-  font-size: 3.5em;
-  align-items: center;
+font-size: 2.5em;
+    text-align: center;
+    margin: 8%;
 }
+
 
