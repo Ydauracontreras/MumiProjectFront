@@ -1,7 +1,7 @@
 
 html, body
 {
- background-color: #ffe8df;  
+ background-color:rgb(255,232,223); 
 }
 
 img.logoPrincipal{
@@ -14,10 +14,6 @@ img#logoAbout{
     height: 50px;
 }
 
-.carousel.slide {
-    margin-top: 10%;
-}
-
 .header{
 left:0px;
 top:0px;
@@ -25,20 +21,22 @@ width:100%;
 }
 
 .footer{
-  background-color: #ad6989 !important;
-  height: 10vh;
-  width: 100%;
-   position:fixed;
-   left:0px;
-   bottom:0px;
-   width:100%;
-   font-size: 1.3em;
+background-color: #ad6989 !important;
+    height: 10vh;
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    font-size: 1.2em;
+    padding: 1%;
 }
+
 
 .navbar-light .navbar-brand{
   color: #562349 !important;
   font-weight: bold;
-    font-size: 1.5em;
+  font-size: 1.5em !important;
 }
 
 .bg-light {
@@ -55,4 +53,5 @@ button.navbar-toggler.collapsed {
 
 .navbar-light .navbar-nav .nav-link {
     font-size: 1.2em;
+    margin: 5px;
 }

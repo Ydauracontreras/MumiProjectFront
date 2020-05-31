@@ -3,7 +3,7 @@ import logo1 from '../img/logo1.png';
 import '../App.css';
 import Header from './Header';
 import Footer from './Footer';
-import About from './About'
+import Quizapp from './Quizapp'
 import Historias from './Historias'
 import { Nav, NavDropdown, Navbar, Form, FormControl, Button, Carousel } from 'react-bootstrap';
 import Route from 'react-router-dom/Route'
@@ -12,16 +12,27 @@ import { BrowserRouter, Link } from 'react-router-dom'
 
 function Home() {
     return (
-        <div className="App">
+        <div className="">
             <div class="text-center" class="home">
-            </div >
-            <div class='About'>
-                <About />
-            </div>
 
-            <div class='Historias'>
-                <Historias />
-            </div>
+                <div>
+
+                    <h1 className='home-main-text'>
+                        MUJERES UNIDAS, MUJERES INVENCIBLES
+                    </h1>
+
+                    <h2 className=''>
+                        <b>
+                            Te invitamos a tomar este <em>QUIZ</em>, diseñado para evaluar si vives una situacion de violencia de genero
+                  </b>  </h2>
+
+                    <Button>
+                        <a href=".Quizapp/">QUIZ</a>
+                    </Button>
+                </div>
+            </div >
+
+
 
         </div >
 

@@ -3,9 +3,11 @@ import '../App.css';
 
 const Footer = () => (
     <footer className='footer'>
-        <a href='/'>Términos de uso</a>
-        <a href='/'>Declaración de privacidad</a>
-        <a href='/'>Centro de ayuda</a>
+        <div className='enlaces'>
+            <a href='/'>TERMINOS DE USO</a>
+            <a href='/'>DECLARACION DE PRIVACIDAD</a>
+            <a href='/'>CENTRO DE AYUDA</a></div>
+
     </footer>
 );
 

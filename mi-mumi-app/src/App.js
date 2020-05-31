@@ -6,18 +6,21 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import About from './components/About';
 import Historias from './components/Historias';
-import Orientacion from './components/Orientacion';
+import Organizaciones from './components/Organizaciones';
 import Quiz from './components/Quiz';
 import { Nav, NavDropdown, Navbar, Form, FormControl, Button, Carousel } from 'react-bootstrap';
 import Route from 'react-router-dom/Route'
 import { BrowserRouter, Link } from 'react-router-dom'
+import Question from './components/Question';
+import quizQuestions from './api/quizQuestions';
+import Result from './components/Result';
 import Main from './components/Main';
 
 
 class App extends Component {
+
   render() {
     return (
-
 
       <div className="App">
         <Header />
@@ -26,8 +29,8 @@ class App extends Component {
             <Route path="/Home" component={Home} />
             <Route path="/About" component={About} />
             <Route path="/Historias" component={Historias} />
-            <Route path="/Orientacion" component={Orientacion} />
-            <Route path="/Quiz" component={Quiz} />
+            <Route path="/Organizaciones" component={Organizaciones} />
+
           </div>
         </BrowserRouter>
         <Footer />

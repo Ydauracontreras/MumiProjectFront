@@ -17,17 +17,12 @@ function Header() {
                         <Nav className="mr-auto">
                             <Nav.Link href='/About'>NOSOTROS</Nav.Link>
                             <Nav.Link href="/Historias">TESTIMONIOS</Nav.Link>
-                            <NavDropdown title="ORGANIZACIONES" id="basic-nav-dropdown">
-                                <NavDropdown.Item href="#action/3.1">Orientacion</NavDropdown.Item>
-                                <NavDropdown.Item href="#action/3.2">Asesoria Legal</NavDropdown.Item>
-                                <NavDropdown.Item href="#action/3.3">Denuncia</NavDropdown.Item>
-
-                            </NavDropdown>
+                            <Nav.Link href="/Organizaciones">ORGANIZACIONES</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Navbar>
             </div>
-        </header>
+        </header >
 
     );
 

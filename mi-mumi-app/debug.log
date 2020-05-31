@@ -1,0 +1,16 @@
+[0531/025525.945:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0531/025525.945:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0531/025526.055:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0531/025525.945:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0531/025525.945:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0531/025525.945:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0531/025526.055:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0531/025525.977:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0531/025526.430:ERROR:exception_snapshot_win.cc(98)] thread ID 20200 not found in process
+[0531/025526.445:ERROR:exception_snapshot_win.cc(98)] thread ID 16152 not found in process
+[0531/025526.430:ERROR:exception_snapshot_win.cc(98)] thread ID 13440 not found in process
+[0531/025526.445:ERROR:exception_snapshot_win.cc(98)] thread ID 19692 not found in process
+[0531/025526.445:ERROR:exception_snapshot_win.cc(98)] thread ID 10804 not found in process
+[0531/025526.445:ERROR:exception_snapshot_win.cc(98)] thread ID 4032 not found in process
+[0531/025526.445:ERROR:exception_snapshot_win.cc(98)] thread ID 6396 not found in process
+[0531/025526.445:ERROR:exception_snapshot_win.cc(98)] thread ID 18256 not found in process

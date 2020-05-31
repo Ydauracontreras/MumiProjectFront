@@ -1,14 +1,14 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { CSSTransition } from 'react-transition-group';
-import Pregunta from './Pregunta';
-import Contador from './Contador';
-import OpcionesRespuesta from './OpcionesRespuesta';
+import { TransitionGroup, CSSTransition } from 'react-transition-group';
+import Question from '../components/Question';
+import QuestionCount from './QuestionCount';
+import AnswerOption from '../components/AnswerOption';
 
 function Quiz(props) {
-    function renderOpcionesRespuesta(key) {
+    function renderAnswerOptions(key) {
         return (
-            <OpcionesRespuesta
+            <AnswerOption
                 key={key.content}
                 answerContent={key.content}
                 answerType={key.type}
@@ -30,10 +30,10 @@ function Quiz(props) {
             transitionAppearTimeout={500}
         >
             <div key={props.questionId}>
-                <Contador counter={props.questionId} total={props.questionTotal} />
-                <Pregunta content={props.question} />
+                <QuestionCount counter={props.questionId} total={props.questionTotal} />
+                <Question content={props.question} />
                 <ul className="answerOptions">
-                    {props.OpcionesRespuesta.map(renderOpcionesRespuesta)}
+                    {props.answerOptions.map(renderAnswerOptions)}
                 </ul>
             </div>
         </CSSTransition>
@@ -41,9 +41,9 @@ function Quiz(props) {
 }
 
 Quiz.propTypes = {
-    Pregunta: PropTypes.string.isRequired,
-    OpcionesRespuesta: PropTypes.array.isRequired,
-    Pregunta: PropTypes.string.isRequired,
+    answer: PropTypes.string.isRequired,
+    answerOptions: PropTypes.array.isRequired,
+    question: PropTypes.string.isRequired,
     questionId: PropTypes.number.isRequired,
     questionTotal: PropTypes.number.isRequired,
     onAnswerSelected: PropTypes.func.isRequired

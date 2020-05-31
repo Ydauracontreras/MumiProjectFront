@@ -1,5 +1,9 @@
 import React from 'react';
 import '../App.css';
+import centro_2 from "../img/centro_2.jpg";
+import centro_3 from "../img/centro_3.jpg";
+
+
 
 
 function Historias() {
@@ -7,20 +11,40 @@ function Historias() {
         <div className="" >
 
             <div class="Historias">
+                <img id="imgHisrotias" src={centro_2} alt="centro" />
+                <p> María conoció a "Juan"  cuando ella tenía 18 y el 23. A los dos años se fueron a vivir juntos y
+                al siguiente nació la primera hija de la pareja.
+                La violencia existió desde el primer momento pero fue creciendo con el paso del tiempo.
+                Ella trabajaba cuando él la autorizaba y a pesar de que estaba estudiando, sus empleos se reducían a
+                ejercer labores domésticas en casas de familias. En el 2011 se separaron y estuvieron así un año.
+                “Yo no conseguía trabajo y no pude contar todo lo que vivía, así que volvimos”.
+                    <br />
 
-                <p >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                      A los dos años nació el segundo hijo y finalmente, la decisión de alejarse del ho mbre que la golpeaba. A partir de allí, María empezó otra vida.
+                       Se fue a vivir con su mamá, terminó sus estudios. Hoy trabaja doble turno y terminó de cursar un posgrado.
+                         <br />
+                    <em><b>
+                        María tiene un solo consejo para las mujeres que son víctimas de violencia:
+                        “Yo les diría que hablen, que cuenten lo que les está pasando. Con estar en silencio y no decir nada sólo empoderás al otro. Hay que hablar porque siempre hay personas que se solidarizan y te creen”.
+        </b>  </em>    </p>
 
-                Why do we use it?
-                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+                <img id="imgHisrotias" src={centro_3} alt="centro" />
+                <p> María conoció a "Juan"  cuando ella tenía 18 y el 23. A los dos años se fueron a vivir juntos y
+                al siguiente nació la primera hija de la pareja.
+                La violencia existió desde el primer momento pero fue creciendo con el paso del tiempo.
+                Ella trabajaba cuando él la autorizaba y a pesar de que estaba estudiando, sus empleos se reducían a
+                ejercer labores domésticas en casas de familias. En el 2011 se separaron y estuvieron así un año.
+                “Yo no conseguía trabajo y no pude contar todo lo que vivía, así que volvimos”.
+                    <br />
+
+                      A los dos años nació el segundo hijo y finalmente, la decisión de alejarse del ho mbre que la golpeaba. A partir de allí, María empezó otra vida.
+                       Se fue a vivir con su mamá, terminó sus estudios. Hoy trabaja doble turno y terminó de cursar un posgrado.
+                         <br />
+                    <em><b>
+                        María tiene un solo consejo para las mujeres que son víctimas de violencia:
+                        “Yo les diría que hablen, que cuenten lo que les está pasando. Con estar en silencio y no decir nada sólo empoderás al otro. Hay que hablar porque siempre hay personas que se solidarizan y te creen”.
+        </b>  </em>
                 </p>
-
-
-                <p >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-                Why do we use it?
-                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-                </p>
-
 
             </div>
         </div>
